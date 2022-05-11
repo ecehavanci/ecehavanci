@@ -1,5 +1,15 @@
-### Hi there 👋
+Welcome to my Github, have a nice tour 👋
 
+You can contact me wtih: 📫
+[![mailtome](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecehavanci@gmail.com)
+[![mylinkedinprofile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ecehavanci)
+
+I'm currently learning.. 
+- Node.js (Express & Fastify)
+- Mongoose
+- Flutter & Firebase
+- PHP
+- HTML/CSS/JS
 <!--
 **ecehavanci/ecehavanci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
