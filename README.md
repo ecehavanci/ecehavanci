@@ -11,6 +11,8 @@ I'm currently learning..
 - PHP
 - HTML/CSS/JS
 - React / React Native
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecehavanci&theme=dracula)](https://github.com/ecehavanci/github-readme-stats)
 <!--
 **ecehavanci/ecehavanci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
