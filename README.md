@@ -12,8 +12,11 @@ I'm currently learning..
 - HTML/CSS/JS
 - React / React Native
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecehavanci&theme=dracula)](https://github.com/ecehavanci/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ecehavanci&show_icons=true&locale=en" alt="ecehavanci" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ecehavanci&" alt="ecehavanci" /></p>
+
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecehavanci&theme=dracula)](https://github.com/ecehavanci/github-readme-stats)
+
 **ecehavanci/ecehavanci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
